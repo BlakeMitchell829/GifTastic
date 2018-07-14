@@ -2,7 +2,7 @@ $(document).ready(function () {
 
   var nature = [
     "Clouds", "Forest", "Ocean","River", "Lake",
-    "Forest", "Stars", "Desert", "Moon", "Clouds",
+    "Forest", "Stars", "Desert", "Moon",
     "Sunrise", "Moutains",
   ];
 
